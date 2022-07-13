@@ -16,4 +16,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/codebuild-maevenproject-1.0.jar
+    - target/codebuild-maevenproject-0.0.1-SNAPSHOT.jar
